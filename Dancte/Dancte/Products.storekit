@@ -1,0 +1,117 @@
+{
+  "identifier": "D4A9C1E0",
+  "nonRenewingSubscriptions": [],
+  "products": [
+    {
+      "displayPrice": "0.99",
+      "familyShareable": false,
+      "internalID": "1000000001",
+      "localizations": [
+        {
+          "description": "A stitched patch to rep the set.",
+          "displayName": "Crew Patch",
+          "locale": "en_US"
+        }
+      ],
+      "productID": "yvoaikogjsnndjsu",
+      "referenceName": "Crew Patch",
+      "type": "Consumable"
+    },
+    {
+      "displayPrice": "1.99",
+      "familyShareable": false,
+      "internalID": "1000000002",
+      "localizations": [
+        {
+          "description": "A hand-labelled tape of the tracks you drill to.",
+          "displayName": "Mixtape",
+          "locale": "en_US"
+        }
+      ],
+      "productID": "dzcukgvzaotyvpnk",
+      "referenceName": "Mixtape",
+      "type": "Consumable"
+    },
+    {
+      "displayPrice": "4.99",
+      "familyShareable": false,
+      "internalID": "1000000003",
+      "localizations": [
+        {
+          "description": "A crisp cap for long studio nights.",
+          "displayName": "Fresh Cap",
+          "locale": "en_US"
+        }
+      ],
+      "productID": "pbzznmzvbarhrfvj",
+      "referenceName": "Fresh Cap",
+      "type": "Consumable"
+    },
+    {
+      "displayPrice": "9.99",
+      "familyShareable": false,
+      "internalID": "1000000004",
+      "localizations": [
+        {
+          "description": "Brand new soles, never touched the floor.",
+          "displayName": "Box Fresh Kicks",
+          "locale": "en_US"
+        }
+      ],
+      "productID": "sqspihjxfbypufcy",
+      "referenceName": "Box Fresh Kicks",
+      "type": "Consumable"
+    },
+    {
+      "displayPrice": "19.99",
+      "familyShareable": false,
+      "internalID": "1000000005",
+      "localizations": [
+        {
+          "description": "Turn the whole block up.",
+          "displayName": "Boombox",
+          "locale": "en_US"
+        }
+      ],
+      "productID": "odoyavsqwxsbleco",
+      "referenceName": "Boombox",
+      "type": "Consumable"
+    },
+    {
+      "displayPrice": "49.99",
+      "familyShareable": false,
+      "internalID": "1000000006",
+      "localizations": [
+        {
+          "description": "First place, engraved with your name.",
+          "displayName": "Battle Trophy",
+          "locale": "en_US"
+        }
+      ],
+      "productID": "uswxusnxccyxehqx",
+      "referenceName": "Battle Trophy",
+      "type": "Consumable"
+    },
+    {
+      "displayPrice": "99.99",
+      "familyShareable": false,
+      "internalID": "1000000007",
+      "localizations": [
+        {
+          "description": "King of the circle. The rarest gift on Dancte.",
+          "displayName": "The Crown",
+          "locale": "en_US"
+        }
+      ],
+      "productID": "faboiosrwrtvolab",
+      "referenceName": "The Crown",
+      "type": "Consumable"
+    }
+  ],
+  "settings": {},
+  "subscriptionGroups": [],
+  "version": {
+    "major": 3,
+    "minor": 0
+  }
+}
